@@ -1,9 +1,10 @@
-# Object_recog
-It is the Object recognition project for College students.
-And its have three differnt recognition system, the first one is vechile recognition and the second one is human recognition then the last one is structure recognition system.
+# Object_detect
+It is the Object detection project for College students.
+And its have three differnt detection system, the first one is vechile detection and the second one is human detection then the last one is structure detection system.
 You can use this for your college mini project.... 
-The college students can use this source code as a example and make their own recognition using open-cv and using CNN algorithm.
+The college students can use this source code as a example and make their own detection using open-cv and using CNN algorithm.
 First you have to download the zip file file extract it and make use of it.
+You can detect the object in image format and vedio vedio format and also a realtime detect using webcams.
 
 Note:
     Inthe zip file all the image and vedios are important, becoz each image and vedio are used inside the progam, so bee carefully run it
@@ -13,4 +14,16 @@ Note:
              2. pip install numpy
     Then it will run successfully. You can modify the source code as your purpose.
     
-    THANK YOU! FOR YOUR SUPPORT....
+    
+    
+    Some screenshots of the project :
+    
+    {{screenshots}}
+    
+    
+    
+    ![screen2](https://user-images.githubusercontent.com/74350077/184532007-6cd6531d-fde8-427b-8465-48cd8399fe27.jpg)
+
+    
+    ![project screen shot1](https://user-images.githubusercontent.com/74350077/184531981-8f730e6d-a35f-477a-9171-4f100039a9a7.jpg)
+
