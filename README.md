@@ -16,14 +16,9 @@ Note:
     
     
     
-    Some screenshots of the project :
-    
-    {{screenshots}}
+THANK YOU FOR SUPPORTING US !
     
     
     
-    ![screen2](https://user-images.githubusercontent.com/74350077/184532007-6cd6531d-fde8-427b-8465-48cd8399fe27.jpg)
-
     
-    ![project screen shot1](https://user-images.githubusercontent.com/74350077/184531981-8f730e6d-a35f-477a-9171-4f100039a9a7.jpg)
 
