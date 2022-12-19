@@ -12,6 +12,7 @@ Note:
     If you are not, then paste the following commands in your promt.
              1. pip install opencv-python
              2. pip install numpy
+             3. And also download a yolov3 weights file in online
     Then it will run successfully. You can modify the source code as your purpose.
     
     
