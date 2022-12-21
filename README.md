@@ -1,4 +1,11 @@
 # Object_detect
+
+![Screenshot (22)](https://user-images.githubusercontent.com/74350077/208858067-46b0cf7d-ecd7-4bfa-be48-ae99d2feb493.png)
+
+
+
+
+
 It is the Object detection project for College students.
 And its have three differnt detection system, the first one is vechile detection and the second one is human detection then the last one is structure detection system.
 You can use this for your college mini project.... 
@@ -22,7 +29,7 @@ THANK YOU FOR SUPPORTING US !
 
 
 
-![Screenshot (22)](https://user-images.githubusercontent.com/74350077/208858067-46b0cf7d-ecd7-4bfa-be48-ae99d2feb493.png)
+
 
     
     
